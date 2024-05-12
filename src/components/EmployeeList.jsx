@@ -60,7 +60,7 @@ const EmployeeList = () => {
 
             {status == 'error' && (
 
-                <h1> Sorry API Not working Properly </h1>
+                <h1> Sorry API Not working Properly and we are working on it. </h1>
 
             )}
 
